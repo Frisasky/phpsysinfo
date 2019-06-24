@@ -52,7 +52,7 @@ phpSysInfo language file Language: Simplified Chinese Created by: AlloVince allo
     <exp>缓存大小</exp>
   </expression>
   <expression id="016" name="bogomips">
-    <exp>系统 Bogomips</exp>
+    <exp>Bogomips</exp>
   </expression>
   <expression id="017" name="pci">
     <exp>PCI 设备</exp>
@@ -319,7 +319,7 @@ phpSysInfo language file Language: Simplified Chinese Created by: AlloVince allo
     <exp>电池日期</exp>
   </expression>
   <expression id="105" name="current">
-    <exp>Current</exp>
+    <exp>电流</exp>
   </expression>
   <expression id="106" name="current_mark">
     <exp>A</exp>
@@ -328,7 +328,7 @@ phpSysInfo language file Language: Simplified Chinese Created by: AlloVince allo
     <exp>Machine</exp>
   </expression>
   <expression id="108" name="ups_line_frequency">
-    <exp>Line frequency</exp>
+    <exp>线路频率</exp>
   </expression>
   <expression id="109" name="Hz">
     <exp>Hz</exp>
@@ -352,7 +352,7 @@ phpSysInfo language file Language: Simplified Chinese Created by: AlloVince allo
     <exp>等待中</exp>
   </expression>
   <expression id="116" name="ProcessesOther">
-    <exp>other</exp>
+    <exp>其他</exp>
   </expression>
   <expression id="117" name="tb">
     <exp>TB 设备</exp>
@@ -361,22 +361,22 @@ phpSysInfo language file Language: Simplified Chinese Created by: AlloVince allo
     <exp>I2C 设备</exp>
   </expression>
   <expression id="119" name="no_processors">
-    <exp>Number of processors</exp>
+    <exp>处理器数量</exp>
   </expression>
   <expression id="120" name="no_devices">
-    <exp>Number of devices</exp>
+    <exp>设备数量</exp>
   </expression>
   <expression id="121" name="other">
-    <exp>Other</exp>
+    <exp>其他</exp>
   </expression>
   <expression id="122" name="manufacturer">
     <exp>生产厂家</exp>
   </expression>
   <expression id="123" name="product">
-    <exp>Product</exp>
+    <exp>型号</exp>
   </expression>
   <expression id="124" name="serial">
-    <exp>Serial number</exp>
+    <exp>序列号</exp>
   </expression>
   <expression id="125" name="memfree">
     <exp>可用</exp>
